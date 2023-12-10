@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=krack-bit&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
 
-MetaRepo of my projects - Start here! → <https://github.com/KRACK-BIT/compsci> (WEP, so is currently still private)
+Got a metarepo of my projects; Start here! → <https://github.com/KRACK-BIT/compsci>
+(Still have yet to add all my repos and clean the git history, so is currently still WEP + private)
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krack-bit&layout=compact&hide_border=true&card_width=250"/> -->
